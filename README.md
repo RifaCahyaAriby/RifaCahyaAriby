@@ -2,14 +2,12 @@
 
 ![Header](https://your-image-link.com) <!-- Ganti dengan URL gambar header Anda -->
 
-Saya [Nama Anda] 🌟, seorang pengembang yang suka berkreasi dan mengeksplorasi dunia teknologi.
+Saya Rifa Cahya Ariby 🌟
 
 ## 🔧 Teknologi dan Tools yang Saya Gunakan:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-009E5B?style=flat-square&logo=coreldraw&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Adobe Premiere](https://img.shields.io/badge/-Adobe%20Premiere-FF6A00?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
 
 ## 📈 Statistik GitHub Saya:
 <p align="center">
@@ -27,7 +25,7 @@ Saya [Nama Anda] 🌟, seorang pengembang yang suka berkreasi dan mengeksplorasi
 - [📸 Instagram](https://instagram.com/yourusername)
 - [💼 LinkedIn](https://linkedin.com/in/yourusername)
 
-> *"Motivasi atau kutipan favorit Anda di sini."*
+> *"Senang Sedih Tetap Allah SWT."*
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="GIF" width="300px">
