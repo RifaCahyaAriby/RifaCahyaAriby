@@ -9,7 +9,11 @@ Kenalan karo nyong Rifa Cahya Ariby
 
 ## Mbok ya di follow lur :)
 - Instagram: [@aribyyyy](https://www.instagram.com/aribyyyy/)
-  
+
+
+
+
+  KATA KATA DINA KIYE
 > *"Bungah Nelongso Tetep Allah SWT."*
 
 <p align="center">
