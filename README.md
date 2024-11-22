@@ -1,6 +1,6 @@
 #  < Sugeng Rawuh Boloku! >
 
-##Nyong Rifa Cahya Ariby 
+Kenalan karo nyong Rifa Cahya Ariby 
 
 ## 🔧 Perangkat sing tak enggo:
 ![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-009E5B?style=flat-square&logo=coreldraw&logoColor=white)
