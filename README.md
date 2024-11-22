@@ -7,6 +7,9 @@ Kenalan karo nyong Rifa Cahya Ariby
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![Adobe Premiere](https://img.shields.io/badge/-Adobe%20Premiere-FF6A00?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
 
+## Mbok ya di follow lur :)
+- Instagram: [@aribyyyy](https://www.instagram.com/aribyyyy/)
+  
 > *"Bungah Nelongso Tetep Allah SWT."*
 
 <p align="center">
