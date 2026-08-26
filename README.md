@@ -1,5 +1,5 @@
 #  < HALO GESS >
-## Instagram: [@rifaaa.ca](https://www.instagram.com/aribyyyy/)
+## Instagram: [@rifa](https://www.instagram.com/rifforclose/)
 
 <p align="right">
 
